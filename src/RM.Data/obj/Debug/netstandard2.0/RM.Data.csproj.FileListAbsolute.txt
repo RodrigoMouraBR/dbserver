@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Data.deps.json
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Data.dll
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Data.pdb
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Domain.Core.dll
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Domain.Core.pdb
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.AssemblyInfo.cs
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.csproj.CopyComplete
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.dll
+C:\Users\admin\source\repos\Banking\src\RM.Data\obj\Debug\netstandard2.0\RM.Data.pdb
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Domain.dll
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\RM.Domain.pdb
+C:\Users\admin\source\repos\Banking\src\RM.Data\bin\Debug\netstandard2.0\appsettings.json

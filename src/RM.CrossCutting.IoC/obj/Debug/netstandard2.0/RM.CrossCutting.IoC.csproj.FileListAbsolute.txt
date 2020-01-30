@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.CrossCutting.IoC.deps.json
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.CrossCutting.IoC.dll
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\appsettings.json
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.CrossCutting.IoC.pdb
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Data.dll
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Domain.Core.dll
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Domain.dll
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Data.pdb
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Domain.pdb
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\bin\Debug\netstandard2.0\RM.Domain.Core.pdb
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.dll
+C:\Users\admin\source\repos\Banking\src\RM.CrossCutting.IoC\obj\Debug\netstandard2.0\RM.CrossCutting.IoC.pdb
